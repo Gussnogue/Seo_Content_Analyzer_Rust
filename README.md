@@ -1,6 +1,6 @@
 # 🚀 Text Analyzer - Analisador de Texto Inteligente em Rust
 
-**Um analisador de texto completo escrito em Rust puro** que realiza análise linguística avançada, detecção de IA, análise de sentimentos e muito mais!
+**Um analisador de texto completo escrito em Rust puro** que realiza análise linguística avançada, detecção de IA, análise de sentimentos.
 
 ![Rust](https://img.shields.io/badge/Rust-1.70%2B-orange?logo=rust)
 ![License](https://img.shields.io/badge/License-MIT-blue)
